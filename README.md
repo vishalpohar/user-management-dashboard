@@ -6,8 +6,7 @@ An enterprise-grade, visually stunning, and highly responsive **User Management 
 
 ## 🚀 Live Demo & Repository
 - **Production Build:** Build verified and compiled successfully.
-- **GitHub Repository Link:** [Public Repo Link Placeholder]
-- **Screen Recording:** [Loom / Video Walkthrough Link Placeholder]
+- **GitHub Repository Link:** https://github.com/vishalpohar/user-management-dashboard
 
 ---
 
@@ -76,7 +75,7 @@ user-management-dashboard/
 
 ### Step 1: Clone and Navigate to Directory
 ```bash
-git clone <repository-url>
+git clone https://github.com/vishalpohar/user-management-dashboard.git
 cd user-management-dashboard
 ```
 
